@@ -1,0 +1,5 @@
+# Announcements are sent to players within this many chunks of the event.
+# 12 chunks = 192 blocks. Distance is measured in 3D.
+radius-chunks: 12
+
+# If HrdaAPI is unavailable, the plugin falls back to normal player usernames.

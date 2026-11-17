@@ -1,0 +1,9 @@
+name: ProximityplusHRDAnick
+version: 1.0.0
+main: com.planetarioid.proximityplushrdanick.ProximityplusHRDAnick
+api-version: '1.21'
+author: Planetarioid
+description: Proximity-based vanilla join, quit, and death announcements with HrdaNick nicknames.
+softdepend:
+  - HrdaNick
+  - HrdaAPI
